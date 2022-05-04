@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.6,
+          "height": 1.6,
+          "width": 1.0
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": true,
-          "min_clearance": 0.15239999999999998
+          "min_clearance": 0.127
         }
       },
       "diff_pair_dimensions": [
@@ -497,8 +497,8 @@
     "author": "Marc-Antoine Lalonde",
     "company": "Connaxio inc.",
     "day": "03",
-    "month": "04",
-    "rev": "1.0.0",
+    "month": "05",
+    "rev": "0.3.5",
     "title": "Espoir Devboard",
     "year": "2022"
   }
