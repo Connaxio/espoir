@@ -466,7 +466,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "../out/espoir.step",
-      "vrml": "../out/3d/espoir.wrl"
+      "vrml": "../../../../Downloads/espoir.wrl"
     },
     "page_layout_descr_file": ""
   },
