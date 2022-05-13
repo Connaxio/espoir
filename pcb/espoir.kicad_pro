@@ -64,6 +64,8 @@
         "copper_edge_clearance|159718360|129061394|4d7ffc75-3dd8-46f7-86f3-405d41c4571a|f28f0fd7-fcc7-4d4e-b89b-d60d0a2c7261",
         "copper_edge_clearance|159718360|73689394|b3dbf4ad-71cb-48f5-9655-41b47deeea78|951bd919-cf2b-4e5e-b28a-e1e6c10ad465",
         "courtyards_overlap|118773132|129772620|00000000-0000-0000-0000-000061b4b583|00000000-0000-0000-0000-000061b4b5b3",
+        "courtyards_overlap|135356999|123465999|00000000-0000-0000-0000-000061b4b5b3|4817a790-ddc3-49eb-a1f8-f8fb3bc98e3a",
+        "courtyards_overlap|136601801|123285001|00000000-0000-0000-0000-000061b54ebd|4817a790-ddc3-49eb-a1f8-f8fb3bc98e3a",
         "courtyards_overlap|138832999|97026001|4817a790-ddc3-49eb-a1f8-f8fb3bc98e3a|a0fb8b15-418a-485a-b1ee-aa54522bebc4",
         "courtyards_overlap|155519279|73620208|00000000-0000-0000-0000-000061b4b6b3|00000000-0000-0000-0000-000061b4ba67",
         "missing_courtyard|123063000|92456000|16f5debb-7b35-41b9-bae0-84ba2f44a466|00000000-0000-0000-0000-000000000000",
@@ -518,9 +520,9 @@
   "text_variables": {
     "author": "Marc-Antoine Lalonde",
     "company": "Connaxio inc.",
-    "day": "08",
+    "day": "12",
     "month": "05",
-    "rev": "0.3.5",
+    "rev": "0.3.6",
     "title": "Espoir",
     "year": "2022"
   }
