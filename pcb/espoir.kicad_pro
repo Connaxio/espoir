@@ -65,8 +65,6 @@
         "copper_edge_clearance|159718360|73689394|b3dbf4ad-71cb-48f5-9655-41b47deeea78|951bd919-cf2b-4e5e-b28a-e1e6c10ad465",
         "courtyards_overlap|118773132|129772620|00000000-0000-0000-0000-000061b4b583|00000000-0000-0000-0000-000061b4b5b3",
         "courtyards_overlap|135356999|123465999|00000000-0000-0000-0000-000061b4b5b3|4817a790-ddc3-49eb-a1f8-f8fb3bc98e3a",
-        "courtyards_overlap|136601801|123285001|00000000-0000-0000-0000-000061b54ebd|4817a790-ddc3-49eb-a1f8-f8fb3bc98e3a",
-        "courtyards_overlap|138832999|97026001|4817a790-ddc3-49eb-a1f8-f8fb3bc98e3a|a0fb8b15-418a-485a-b1ee-aa54522bebc4",
         "courtyards_overlap|155519279|73620208|00000000-0000-0000-0000-000061b4b6b3|00000000-0000-0000-0000-000061b4ba67",
         "missing_courtyard|123063000|92456000|16f5debb-7b35-41b9-bae0-84ba2f44a466|00000000-0000-0000-0000-000000000000",
         "missing_courtyard|148463000|116586000|f2c0964a-61a1-443a-8f3a-e4e3d4cae803|00000000-0000-0000-0000-000000000000",
@@ -85,14 +83,7 @@
         "silk_over_copper|161163000|97536000|4657a725-f83f-41d7-8d78-5df6c4ca4b46|20c29c27-4a1b-49a6-9a6b-2775a8a5838a",
         "silk_over_copper|161163000|97536000|4657a725-f83f-41d7-8d78-5df6c4ca4b46|8729887a-2be4-4bf5-a008-b20506a2bda6",
         "silk_over_copper|161163000|97536000|4657a725-f83f-41d7-8d78-5df6c4ca4b46|accb3968-f712-40b2-a8fe-70b2c12f4ae9",
-        "silk_over_copper|161163000|97536000|4657a725-f83f-41d7-8d78-5df6c4ca4b46|cd4d0bd8-d460-43c2-a237-927a9b693442",
-        "silk_overlap|135763000|97536000|5146cecb-443a-4b7d-9d9f-0fd6efc1a0f8|f980cafb-8bf9-4bbc-86e2-2884d8c24942",
-        "silk_overlap|135763000|97536000|a8d66a02-4eab-44cd-b99a-58a828483c11|54045305-1337-4af9-9154-b2bfa40f62af",
-        "silk_overlap|135763000|97536000|a8d66a02-4eab-44cd-b99a-58a828483c11|f980cafb-8bf9-4bbc-86e2-2884d8c24942",
-        "silk_overlap|138303000|97536000|5146cecb-443a-4b7d-9d9f-0fd6efc1a0f8|53c01060-a02d-4e74-8264-3cb06546deff",
-        "silk_overlap|138303000|97536000|5146cecb-443a-4b7d-9d9f-0fd6efc1a0f8|54045305-1337-4af9-9154-b2bfa40f62af",
-        "silk_overlap|138303000|97536000|c2be9620-7960-4b19-a081-64c59127b509|53c01060-a02d-4e74-8264-3cb06546deff",
-        "silk_overlap|138303000|97536000|c2be9620-7960-4b19-a081-64c59127b509|54045305-1337-4af9-9154-b2bfa40f62af"
+        "silk_over_copper|161163000|97536000|4657a725-f83f-41d7-8d78-5df6c4ca4b46|cd4d0bd8-d460-43c2-a237-927a9b693442"
       ],
       "meta": {
         "filename": "board_design_settings.json",
@@ -520,9 +511,9 @@
   "text_variables": {
     "author": "Marc-Antoine Lalonde",
     "company": "Connaxio inc.",
-    "day": "12",
+    "day": "13",
     "month": "05",
-    "rev": "0.3.6",
+    "rev": "0.3.7",
     "title": "Espoir",
     "year": "2022"
   }
