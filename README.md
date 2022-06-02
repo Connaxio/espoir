@@ -10,7 +10,7 @@ Espoir is a Power over Ethernet+ (PoE+ (802.3af/at)), mikroBUS<sup>TM</sup> main
   - 520 KB SRAM
   - Full details in the [ESP32-MINI-1 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf)
 - Power
-  - Input: 37 V - 57 V PoE+ through the Ethernet connector. 2,250 V isolation
+  - Input: 37 V - 57 V PoE+ through the Ethernet connector, with 2,250 V isolation and jumper-selectable PoE Class 2, 3, or 4 (6.5 W, 13 W and 25.5 W)
   - Input: 5 V through the USB-C connector<sup>1</sup>
   - Output: 5 V at 3 A (15 W) from PoE
   - Output: 3.3 V at 0.7 A (2.3 W)<sup>2</sup>
