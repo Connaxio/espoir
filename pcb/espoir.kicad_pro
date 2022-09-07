@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.6,
-          "height": 1.6,
-          "width": 1.0
+          "drill": 0.3,
+          "height": 0.56,
+          "width": 0.56
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -44,7 +44,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
+          "45_degree_only": true,
           "min_clearance": 0.15239999999999998
         }
       },
@@ -57,16 +57,23 @@
       ],
       "drc_exclusions": [
         "copper_edge_clearance|114634015|73906469|eaab2e59-ff73-4d74-b3d3-7e7c2515083f|29a24595-ec5a-4745-83b9-a3a77aec707f",
+        "copper_edge_clearance|114634015|73906469|eaab2e59-ff73-4d74-b3d3-7e7c2515083f|bb592f9b-e8f2-4c31-8685-037f0d3bb923",
         "copper_edge_clearance|114656361|73690959|eaab2e59-ff73-4d74-b3d3-7e7c2515083f|c2ce3955-4f4e-485d-9bb6-79ad5a299a8c",
         "copper_edge_clearance|119519178|122585425|825065db-dc11-43e9-aa2e-59e6b2cd21f3|9df7d3a4-79d0-43b3-89db-ec4d42b0e622",
         "copper_edge_clearance|119519178|122585425|825065db-dc11-43e9-aa2e-59e6b2cd21f3|d75df9ae-6ea2-45ff-b102-1bf0f69bd1f9",
+        "copper_edge_clearance|119519178|122585425|825065db-dc11-43e9-aa2e-59e6b2cd21f3|e8391982-4326-497e-b510-c6ca3b19672e",
         "copper_edge_clearance|121766489|121107868|825065db-dc11-43e9-aa2e-59e6b2cd21f3|59b13eaf-6b6a-481a-ac39-a480bcf7c079",
         "copper_edge_clearance|121766489|121107868|825065db-dc11-43e9-aa2e-59e6b2cd21f3|a43da26d-4168-4619-89cd-0888d86c0ce4",
+        "copper_edge_clearance|121766489|121107868|825065db-dc11-43e9-aa2e-59e6b2cd21f3|f572dbf2-be58-4de9-a112-1b4596161c3d",
+        "copper_edge_clearance|132194822|122585425|ee6e4a23-bb7c-4f28-ab56-3ba1b79e1c04|340f6973-a00b-4230-8117-c89f1a39a75b",
         "copper_edge_clearance|132194822|122585425|ee6e4a23-bb7c-4f28-ab56-3ba1b79e1c04|35657b15-4715-4441-a247-18b8a0664894",
         "copper_edge_clearance|132194822|122585425|ee6e4a23-bb7c-4f28-ab56-3ba1b79e1c04|b4547db4-d8cc-4a98-9832-ae8608e111d9",
         "copper_edge_clearance|133196489|121107868|ee6e4a23-bb7c-4f28-ab56-3ba1b79e1c04|118b1064-e03b-44a7-b512-bea659ca1515",
+        "copper_edge_clearance|133196489|121107868|ee6e4a23-bb7c-4f28-ab56-3ba1b79e1c04|94f0667b-6c8c-42e5-ae0d-bab37dd2b53a",
         "copper_edge_clearance|133196489|121107868|ee6e4a23-bb7c-4f28-ab56-3ba1b79e1c04|ac62cf62-74d1-4ea2-9060-f7f096405adc",
+        "copper_edge_clearance|159846015|129278469|4d7ffc75-3dd8-46f7-86f3-405d41c4571a|57c7b651-f7ab-4c3d-bf7c-5795fa237694",
         "copper_edge_clearance|159846015|129278469|4d7ffc75-3dd8-46f7-86f3-405d41c4571a|c216f83e-7863-4431-9405-858dd6d1ea0d",
+        "copper_edge_clearance|159846015|73906469|b3dbf4ad-71cb-48f5-9655-41b47deeea78|2b6f3bb7-e566-425f-96b4-570959cd3886",
         "copper_edge_clearance|159846015|73906469|b3dbf4ad-71cb-48f5-9655-41b47deeea78|5dcd1f51-16b9-43b5-83d5-75d171e88df8",
         "copper_edge_clearance|159868361|129062959|4d7ffc75-3dd8-46f7-86f3-405d41c4571a|c5665e33-820c-43c7-bcf4-e05b826ca433",
         "copper_edge_clearance|159868361|73690959|b3dbf4ad-71cb-48f5-9655-41b47deeea78|ad9f189d-ba13-448e-aaf6-aa5c012948de",
@@ -541,8 +548,8 @@
   "text_variables": {
     "author": "Marc-Antoine Lalonde",
     "company": "Connaxio inc.",
-    "day": "03",
-    "month": "06",
+    "day": "06",
+    "month": "09",
     "rev": "0.3.7",
     "title": "Espoir",
     "year": "2022"
