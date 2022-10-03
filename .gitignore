@@ -27,3 +27,5 @@ fp-info-cache
 
 espoir-backups/
 out/
+
+*.FCStd1
