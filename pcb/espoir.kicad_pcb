@@ -90,9 +90,10 @@
 
   (property "author" "Marc-Antoine Lalonde")
   (property "company" "Connaxio inc.")
-  (property "day" "09")
-  (property "month" "01")
-  (property "rev" "1.1-rc1")
+  (property "day" "14")
+  (property "month" "02")
+  (property "rev" "1.1")
+  (property "source" "https://github.com/Connaxio/espoir")
   (property "title" "Espoir")
   (property "year" "2023")
 
@@ -12941,7 +12942,7 @@
   (gr_text "I37" (at 138.43 106.426 180) (layer "B.SilkS") (tstamp 3fe8b01f-b2e7-44e1-8e0b-4b179a901a4f)
     (effects (font (size 0.85 0.85) (thickness 0.15)) (justify left mirror))
   )
-  (gr_text "PoE CLASS\nR2:  25.5W\nR3:  13.0W\nNone: 6.5W" (at 119.9896 97.5868 180) (layer "B.SilkS") (tstamp 505caa51-cbb3-4830-9ceb-0e5b3e814df3)
+  (gr_text "PoE CLASS\nJumpers\nR2:  25.5W\nR3:  13.0W\nNone: 6.5W" (at 119.4054 97.7138 180) (layer "B.SilkS") (tstamp 505caa51-cbb3-4830-9ceb-0e5b3e814df3)
     (effects (font (size 1 1) (thickness 0.15)) (justify right mirror))
   )
   (gr_text "IO5" (at 151.765 93.726 180) (layer "B.SilkS") (tstamp 5904505d-6d45-48a5-9432-7978d9d252cb)

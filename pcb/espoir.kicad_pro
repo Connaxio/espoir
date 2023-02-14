@@ -90,6 +90,7 @@
         "missing_courtyard|148463000|93726000|c414e8d9-9e39-4ee4-8ebc-3303769cf397|00000000-0000-0000-0000-000000000000",
         "silk_over_copper|126887240|90408748|8a3e3116-a39f-4077-b1b7-cbf7d399d72e|7e3059f8-2e86-4bf9-bad7-7a37a5c3028a",
         "silk_over_copper|126935967|90449400|b6c42490-6270-461f-ae6d-93f3a97ee3d1|38852f56-f938-4ef3-b146-9c9aa4c2df52",
+        "silk_over_copper|127553749|89800038|8a3e3116-a39f-4077-b1b7-cbf7d399d72e|7e3059f8-2e86-4bf9-bad7-7a37a5c3028a",
         "silk_over_copper|130760239|71020478|4657a725-f83f-41d7-8d78-5df6c4ca4b46|7264cbfe-21ba-435f-859e-0755bd3555ea",
         "silk_over_copper|141863000|70985000|4657a725-f83f-41d7-8d78-5df6c4ca4b46|35fa88de-aa0b-420b-a354-220be82ead33",
         "silk_over_copper|141863000|70985000|4657a725-f83f-41d7-8d78-5df6c4ca4b46|5c7081f6-3527-4e36-9eee-b15003fb115d",
@@ -570,9 +571,10 @@
   "text_variables": {
     "author": "Marc-Antoine Lalonde",
     "company": "Connaxio inc.",
-    "day": "09",
-    "month": "01",
-    "rev": "1.1-rc1",
+    "day": "14",
+    "month": "02",
+    "rev": "1.1",
+    "source": "https://github.com/Connaxio/espoir",
     "title": "Espoir",
     "year": "2023"
   }

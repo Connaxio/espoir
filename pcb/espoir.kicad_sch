@@ -10,6 +10,7 @@
     (rev "${rev}")
     (company "${company}")
     (comment 1 "${author}")
+    (comment 4 "${source}")
   )
 
   (lib_symbols
