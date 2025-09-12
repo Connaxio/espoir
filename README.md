@@ -3,4 +3,4 @@
 # Espoir
 Espoir is a Power over Ethernet+ (PoE+ (802.3af/at)), mikroBUS<sup>TM</sup> mainboard based on the ESP32-MINI-1.
 
-The full documentation for the project can be found on [Connaxio's Wiki](https://docs.connaxio.com/espoir/hardware.html), including features and specifications and quick-start guides for tools like Arduino and MicroPython.
+The full documentation for the project can be found on [Connaxio's Wiki](https://connaxio.github.io/espoir/hardware.html), including features and specifications and quick-start guides for tools like Arduino and MicroPython.
